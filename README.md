@@ -92,4 +92,4 @@ It helps students understand **network traffic analysis and intrusion detection 
 **Bairi Rahul Sai**
 
 Cybersecurity Enthusiast
-Ethical Hacking | Network Security | Python Automation
+
